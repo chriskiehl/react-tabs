@@ -1,0 +1,16 @@
+{
+  "name": "simple-react-tabs",
+  "version": "0.1.0",
+  "description": "A simple Tab Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "tabs",
+    "ui"
+  ],
+  "author": "Chris Kiehl <audionautic@gmail.com> (github.com/chriskiehl)",
+  "license": "MIT"
+}
